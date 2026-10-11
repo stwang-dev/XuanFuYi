@@ -1,5 +1,7 @@
 # XuanFuYi · 悬浮译
 
+[English](README.md) | [中文](README.zh-CN.md)
+
 A tiny floating translator for HarmonyOS and Android tablets, built for reading foreign-language
 papers in Zotero.
 
