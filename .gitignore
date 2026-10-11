@@ -1,0 +1,15 @@
+# 打包工具与中间产物（跑 fetch-tools.ps1 / build.ps1 时会自动生成）
+/tools/
+/dl/
+/build/
+/keystore/
+*.keystore
+*.jks
+*.idsig
+
+# 编辑器 / 系统文件
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+*.log
